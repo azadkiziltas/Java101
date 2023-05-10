@@ -1,4 +1,4 @@
-package pratik;
+package pratik.NotOrtalama;
 
 import java.util.Scanner;
 
