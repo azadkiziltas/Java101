@@ -24,5 +24,6 @@ public class Combination {
 
     c = nFactoriel / (rFactoriel * nrFactoriel);
     System.out.println("C(n,r) : " + c);
+    scan.close();
   }
 }
